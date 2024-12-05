@@ -1,0 +1,28 @@
+Erschaffen einer interaktiven Text-basierten Spielwelt, in der der Spieler
+durch Räume navigiert, Rätsel löst und Gegenstände sammelt.
+Wählen Sie ein beliebiges thematisches Genre für das Text-Adventure aus
+(z. B. Horror, Sci-Fi, Fantasy).
+Passen Sie entsprechend die Räume, Gegenstände und die gesamte Atmosphäre konsistent an.
+Erstellt eine Hintergrundgeschichte und passt Dialoge entsprechend an. Seid kreativ!
+
+Wichtige Aspekte:
+• Erstellen einer interaktiven Spielwelt mit min. 5 Räumen, 3 Gegenständen und
+3 Interaktionen/Rätseln
+• Interaktionen können sein: Beschreibung des Raumes, Gehen, Untersuchen,
+Nehmen, Anzeige des Inventars, usw.
+• Definieren von Gegenständen, die gesammelt und verwendet werden können
+• Implementieren von Rätseln, die gelöst werden müssen
+• Laden/Speichern des Spielfortschritts in eine Datei
+
+Verwenden Sie unterschiedliche Datenstrukturen (Dictionaries, Listen, Tuples)
+für die Darstellung von Räumen, Inventar und des Spielers.
+Das Spiel soll modular aus Funktionen bestehen für z. B. Bewegung, Untersuchen,
+Lösen von Rätseln und Speichern/Laden des Spielstandes in eine Datei.
+Ebenso auf Fehler-Handling achten, die Überprüfung auf ungültige Befehle und Situationen,
+in denen der Spieler nicht weiterkommt.
+
+Mögliche Aufteilung/Entwicklungsschritte:
+1. Erstellung der Grundstruktur des Spiels (Räume, Gegenstände, Aktionen)
+2. Implementierung von Rätseln und Interaktionen mit Gegenständen
+3. Entwicklung der Ausgabe/Benutzeroberfläche und Persistenz des Spielstandes
+(Speichern/Laden)
